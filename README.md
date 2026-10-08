@@ -97,3 +97,7 @@ GUI tests require a display. On Linux, they can run with `xvfb-run -a`. The rele
 The repository contains source, documentation, tests and a synthetic demo generator. Real images, saved research projects, review examples, exports, local settings and backups remain outside its publication allowlist.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for bug reports and development expectations, [SECURITY.md](SECURITY.md) for private vulnerability reports and [CITATION.cff](CITATION.cff) for software attribution. [Repository preparation notes](docs/REPOSITORY.md) record the remaining GitHub settings and licence decision.
+
+## Licence
+
+Copyright © 2026 Nils Hampel. Released under the [MIT licence](LICENSE). You may use, modify and redistribute the software, including commercially, provided the copyright and licence notices are retained.

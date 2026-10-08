@@ -10,3 +10,4 @@ authors:
   - family-names: "Hampel"
     given-names: "Nils"
 abstract: "A desktop application for manual annotation and measurement of synaptic ribbon profiles in electron micrographs."
+license: MIT

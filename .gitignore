@@ -6,6 +6,7 @@
 !/CONTRIBUTING.md
 !/SECURITY.md
 !/CITATION.cff
+!/LICENSE
 !/requirements.txt
 !/ribbon_analyzer.py
 !/evaluate_detector.py
