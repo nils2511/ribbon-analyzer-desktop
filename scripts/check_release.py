@@ -14,7 +14,7 @@ ALLOWED = {
     'docs/USAGE.md', 'docs/RELEASE.md', 'docs/manual-annotation.png',
     '.github/workflows/tests.yml',
     '.github/dependabot.yml', 'CONTRIBUTING.md', 'SECURITY.md', 'CITATION.cff',
-    'docs/REPOSITORY.md',
+    'docs/REPOSITORY.md', 'LICENSE',
 }
 PATTERNS = {
     'credential': re.compile(r'(?:sk-ant-|sk-|ghp_|github_pat_|AIza)[A-Za-z0-9_-]{20,}'),
