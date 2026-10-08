@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use Ribbon Analyzer, please cite this software."
+title: "Ribbon Analyzer"
+type: software
+version: "0.1.0"
+date-released: 2026-10-08
+repository-code: "https://github.com/nils2511/ribbon-analyzer-desktop"
+url: "https://github.com/nils2511/ribbon-analyzer-desktop"
+authors:
+  - family-names: "Hampel"
+    given-names: "Nils"
+abstract: "A desktop application for manual annotation and measurement of synaptic ribbon profiles in electron micrographs."
